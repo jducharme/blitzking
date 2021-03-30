@@ -1,17 +1,10 @@
 # Xandra
-Rider Type: Normal
-
-Cost: 500 Blue Dragon Rider Shards
+Rider Type: Seasonal/Withermoon
 
 ## Build
-### Hunter
-![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/xandra_hunter.jpg)
+### Max Attack
+![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/vivian_max_atk.jpg)
 
-### Invoker
-![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/xandra_invoker.jpg)
+### Max HP
+![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/vivian_max_hp.jpg)
 
-### Sorcerer
-![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/xandra_sorc.jpg)
-
-### Warrior
-![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/xandra_warrior.jpg)
