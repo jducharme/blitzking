@@ -12,5 +12,3 @@ Cost: 500 Blue Dragon Rider Shards
 
 ### Rage
 ![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/archelus_rage.jpg)
-
-
