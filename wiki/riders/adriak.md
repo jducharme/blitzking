@@ -11,5 +11,3 @@ Cost: 500 Purple Dragon Rider Shards
 
 ### Warrior
 ![](https://raw.githubusercontent.com/jducharme/blitzking/master/wiki/assets/riders/adriak_warrior.jpg)
-
-

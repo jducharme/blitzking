@@ -1,5 +1,5 @@
-# Archelus
-Rider Type: Normal
+# Amalia
+Rider Type: Seasonal - Souldance
 
 ## Build
 ### Defense
